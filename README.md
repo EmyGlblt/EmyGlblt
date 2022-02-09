@@ -5,5 +5,5 @@
 - :books: currently learning joint species distribution modelling
 - 📫 How to reach me: guilbaultemy@gmail.com
 - 😄 Pronouns: her/she
-- ⚡ Fun fact: I love birds
+- ⚡ Fun fact: I love :bird: and :basketball:
 -->
